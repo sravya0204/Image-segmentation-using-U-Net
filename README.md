@@ -47,8 +47,8 @@ Each input RGB image has a corresponding segmentation mask where each pixel is l
 | **Loss Function** | Sparse Categorical Crossentropy (from logits) | Sparse Categorical Crossentropy (from logits) |
 | **Batch Size** | 32 | 32 |
 | **Epochs** | 40 | 40 |
-| **Final Training Accuracy** | ~94.4% | ~94.4% |
-| **Test Accuracy** | — | ~90.1% |
+| **Final Training Accuracy** | 94.56% | 94.39% |
+| **Test Accuracy** | 93.33% | 90.14% |
 
 ## Results
 
