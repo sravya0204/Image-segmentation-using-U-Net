@@ -111,7 +111,6 @@ Image-segmentation-using-U-Net/
 ├── test/                          # Test data split
 ├── results/                       # Output prediction images
 ├── u-net-architecture.png         # U-Net architecture diagram
-├── Image Segmentation U-Net (2).pptx  # Project presentation
 ├── imagesegmentation_final_report.pdf # Final project report
 └── README.md                      # This file
 ```
